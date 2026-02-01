@@ -1,1 +1,0 @@
-Build/WeltKlicker.wasm filter=lfs diff=lfs merge=lfs -text
